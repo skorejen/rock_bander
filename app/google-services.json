@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979365329909",
+    "firebase_url": "https://rock-bander.firebaseio.com",
+    "project_id": "rock-bander",
+    "storage_bucket": "rock-bander.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979365329909:android:934553cec4c4a042",
+        "android_client_info": {
+          "package_name": "com.ads.rockbander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979365329909-3kdl0e352obgobhrdoe7nv1q0o0qh6gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFAjfp6Xmu1qUMHxFDGDYiyFC21lJZyYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979365329909-3kdl0e352obgobhrdoe7nv1q0o0qh6gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
